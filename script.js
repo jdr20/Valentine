@@ -54,10 +54,10 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
+    "Are you sure? Suppose mi go ask Darett",
+    "Really sure?? Think bout it mon",
     "Are you positive?",
-    "Pookie please...",
+    "Look into yuh self...",
     "Just think about it!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
